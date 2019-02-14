@@ -1,4 +1,6 @@
 {
   "maintenance": false,
-  "hightraffic":false
+  "maintenance_msg": "",
+  "hightraffic":false,
+  "hightraffic_msg": "Server Congestion"
 }
